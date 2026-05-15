@@ -1,6 +1,6 @@
 # Principal Bot
 
-Bot Discord pra servidor de FiveM. Gerencia o sistema de allowlist do começo ao fim, conecta direto no banco do servidor (a mesma `accounts` que o resto da cidade usa), e mantém um painel de status do servidor sempre atualizado pros jogadores.
+Bot Discord pra servidor de FiveM. Gerencia o sistema de allowlist do começo ao fim, conecta direto no banco do servidor, e mantém um painel de status do servidor sempre atualizado pros jogadores.
 
 Fiz pra resolver um problema chato: ninguém quer ficar aprovando WL manualmente no HeidiSQL, e o pessoal sempre acaba esquecendo de atualizar o discord ID na conta. Esse bot cuida disso e ainda faz a entrevista de RP automática.
 
