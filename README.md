@@ -24,7 +24,7 @@ Sem TypeScript, sem build step, sem dependência exótica.
 ## Setup
 
 ```bash
-git clone https://github.com/SEU_USUARIO/principal-bot.git
+git clone https://github.com/lucasribeiroxzz/bot-wl-fivem.git
 cd principal-bot
 npm install
 cp .env.example .env
