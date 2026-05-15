@@ -1,0 +1,19 @@
+{
+  "name": "principal-bot",
+  "version": "2.0.0",
+  "description": "Bot Discord - Principal RP - Sistema de Allowlist",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js",
+    "upload-emojis": "node upload-emojis.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "dotenv": "^16.6.1",
+    "mariadb": "^3.5.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
